@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CraftIQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1332C2-D76E-4A75-A34D-7BAD9D4CB306}|CraftIQ\\CraftIQ.csproj|e:\\craftiq\\craftiq\\controller\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1332C2-D76E-4A75-A34D-7BAD9D4CB306}|CraftIQ\\CraftIQ.csproj|solutionrelative:craftiq\\controller\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1332C2-D76E-4A75-A34D-7BAD9D4CB306}|CraftIQ\\CraftIQ.csproj|e:\\craftiq\\craftiq\\repo\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1332C2-D76E-4A75-A34D-7BAD9D4CB306}|CraftIQ\\CraftIQ.csproj|solutionrelative:craftiq\\repo\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1332C2-D76E-4A75-A34D-7BAD9D4CB306}|CraftIQ\\CraftIQ.csproj|e:\\craftiq\\craftiq\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1332C2-D76E-4A75-A34D-7BAD9D4CB306}|CraftIQ\\CraftIQ.csproj|solutionrelative:craftiq\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1332C2-D76E-4A75-A34D-7BAD9D4CB306}|CraftIQ\\CraftIQ.csproj|e:\\craftiq\\craftiq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1332C2-D76E-4A75-A34D-7BAD9D4CB306}|CraftIQ\\CraftIQ.csproj|solutionrelative:craftiq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\CraftIQ\\CraftIQ\\Controller\\CategoryController.cs",
+              "RelativeDocumentMoniker": "CraftIQ\\Controller\\CategoryController.cs",
+              "ToolTip": "E:\\CraftIQ\\CraftIQ\\Controller\\CategoryController.cs",
+              "RelativeToolTip": "CraftIQ\\Controller\\CategoryController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:35:25.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryRepo.cs",
+              "DocumentMoniker": "E:\\CraftIQ\\CraftIQ\\Repo\\CategoryRepo.cs",
+              "RelativeDocumentMoniker": "CraftIQ\\Repo\\CategoryRepo.cs",
+              "ToolTip": "E:\\CraftIQ\\CraftIQ\\Repo\\CategoryRepo.cs",
+              "RelativeToolTip": "CraftIQ\\Repo\\CategoryRepo.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:18:00.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\CraftIQ\\CraftIQ\\Controller\\AuthController.cs",
+              "RelativeDocumentMoniker": "CraftIQ\\Controller\\AuthController.cs",
+              "ToolTip": "E:\\CraftIQ\\CraftIQ\\Controller\\AuthController.cs",
+              "RelativeToolTip": "CraftIQ\\Controller\\AuthController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:03:11.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CraftIQ\\CraftIQ\\Program.cs",
+              "RelativeDocumentMoniker": "CraftIQ\\Program.cs",
+              "ToolTip": "E:\\CraftIQ\\CraftIQ\\Program.cs",
+              "RelativeToolTip": "CraftIQ\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwBsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:09:57.967Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
